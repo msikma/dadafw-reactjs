@@ -1,0 +1,32 @@
+{
+  "name": "dadafw-reactjs",
+  "version": "0.0.1",
+  "description": "ReactJS behavior wrapper for Dada Framework",
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msikma/dadafw-angular"
+  },
+  "bugs": {
+    "url": "https://github.com/msikma/dadafw-angular/issues"
+  },
+  "keywords": [
+    "SCSS",
+    "SASS",
+    "CSS",
+    "ReactJS",
+    "Framework",
+    "Grid system"
+  ],
+  "dependencies": {
+    "dadafw": "file:../hma/dadafw"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "flux": "^2.0.0",
+    "react": "^0.11.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
