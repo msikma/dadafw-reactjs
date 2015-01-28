@@ -5,10 +5,10 @@
   "author": "Michiel Sikma <michiel@sikma.org>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/msikma/dadafw-angular"
+    "url": "https://github.com/msikma/dadafw-reactjs"
   },
   "bugs": {
-    "url": "https://github.com/msikma/dadafw-angular/issues"
+    "url": "https://github.com/msikma/dadafw-reactjs/issues"
   },
   "keywords": [
     "SCSS",
@@ -19,13 +19,10 @@
     "Grid system"
   ],
   "dependencies": {
-    "dadafw": "file:../hma/dadafw"
+    "flux": "^2.0.0",
+    "react": "^0.13.0-beta.1"
   },
   "license": "MIT",
-  "dependencies": {
-    "flux": "^2.0.0",
-    "react": "^0.11.1"
-  },
   "devDependencies": {
     "grunt": "^0.4.5"
   }
