@@ -21,7 +21,7 @@
   "dependencies": {
     "flux": "^2.0.0",
     "react": "^0.13.0-beta.1",
-    "dadafw": "file:../hma/dadafw"
+    "dadafw": "~0.0"
   },
   "license": "MIT",
   "devDependencies": {
