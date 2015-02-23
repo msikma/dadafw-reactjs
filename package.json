@@ -1,6 +1,6 @@
 {
   "name": "dadafw-reactjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ReactJS behavior wrapper for Dada Framework",
   "author": "Michiel Sikma <michiel@sikma.org>",
   "repository": {
